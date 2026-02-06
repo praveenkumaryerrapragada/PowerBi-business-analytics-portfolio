@@ -9,6 +9,16 @@ To help business stakeholders:
 - Identify top-performing products and categories
 - Track sales trends over time
 - Support data-driven sales strategy decisions
+  
+
+  ## Data Modeling & Preparation
+- Designed a **fact and dimension data model** using star schema principles
+- Established relationships between sales facts and dimension tables
+  (Product, Customer, Region, Date)
+- Handled **large datasets** efficiently using optimized data modeling
+- Integrated multiple file formats such as CSV and Excel
+- Performed data transformations using Power Query
+
 
 ## Key KPIs
 - Total Sales
